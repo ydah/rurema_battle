@@ -1,4 +1,4 @@
-# RuremaBattle
+# RuremaBattle [![Gem Version](https://badge.fury.io/rb/rurema_battle.svg)](https://badge.fury.io/rb/rurema_battle) [![Ruby](https://github.com/ydah/rurema_battle/actions/workflows/main.yml/badge.svg)](https://github.com/ydah/rurema_battle/actions/workflows/main.yml)
 
 🎮 A game in which you enter the name of the class and compete for the number of letters on rurima's page.
 
